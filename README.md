@@ -4,7 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Dong%20%20Dev%20Repo&fontColor=000000&fontSize=60&desc=Cpp,%20CSharp,%20Python&fontAlignY=41&descAlign=49"/>
   </a>
 </p>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CLIVEJACK&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/CLIVEJACK"
@@ -12,6 +11,7 @@
   height="300"
 />
 </a>
+
 
 ## Profile
 - `Name` : Kim Dong Kuk
